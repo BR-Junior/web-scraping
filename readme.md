@@ -28,8 +28,7 @@ Run project
 This code only works if the issue has a label.
 First you need to inform the github profile that you want to get the emails, then the repository and then the issue label.
 
-
-![screenshot](https://github.com/BR-Junior/web-scraping/blob/362f14e5e0b8f4dd8440fea9655cb5f2b34112dd/example-code.gif)
+<img src="https://github.com/BR-Junior/web-scraping/blob/514049d063cebdea165f9b575e16a2dacd695823/example-execute.gif" width="640" height="480" />
 
 
 
